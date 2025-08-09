@@ -69,7 +69,7 @@ customer-review-analysis/
 Dependencies
 Python 3.8+
 
-Jupyter Notebook/Google collab
+Jupyter Notebook/Google colab
 
 LangChain
 
